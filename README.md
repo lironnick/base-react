@@ -6,8 +6,6 @@ In the project directory, you can run:
 
 ### `yarn test`
 
-### `yarn build`
-
 ### Deployment
 
 ### `yarn build` fails to minify
